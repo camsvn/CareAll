@@ -60,6 +60,11 @@ Shows the results of caretaker,careseeker couple and list of careseekers cared b
 ```
 Person.report()
 ```
+## Diagrams
+
+Class Diagram:
+
+![Image of Class Diagram for careall.py](https://github.com/camsvn/CareAll/blob/master/Class%20Diagram.png)
 
 ## License
 
