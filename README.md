@@ -13,6 +13,13 @@ CareAll is a python module which can be used for following functionalities:
 * Review and rating feature for both the users.
 * View report functionality.
 
+## Class Diagrams
+
+Class diagram of careall.py
+
+
+![Image of Class Diagram for careall.py](https://github.com/camsvn/CareAll/blob/master/Class%20Diagram.png)
+
 ## Running the tests
 
 Execute test.py ,automates tesing process and show results
@@ -60,11 +67,6 @@ Shows the results of caretaker,careseeker couple and list of careseekers cared b
 ```
 Person.report()
 ```
-## Diagrams
-
-Class Diagram:
-
-![Image of Class Diagram for careall.py](https://github.com/camsvn/CareAll/blob/master/Class%20Diagram.png)
 
 ## License
 
