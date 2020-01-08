@@ -65,7 +65,7 @@ careseeker.viewapplication()
 Allows careseekers to approve the applicants for the job.
 
 ```
-careseeker.jobaccept()
+careseeker.jobaccept(option)
 ```
 
 Allow both careseekers and caretakers to review and rate themselves 
