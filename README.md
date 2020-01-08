@@ -26,6 +26,18 @@ Class diagram of careall.py
 
 ### And coding style tests
 
+Creates an object of type careseeker
+
+```
+a = careseeker("name")
+```
+
+Creates an object of type caretaker
+
+```
+b = caretaker("name")
+```
+
 Allow careseeker to create a new job and restrict creating another job while current job is active
 
 ```
