@@ -22,7 +22,7 @@ Class diagram of careall.py
 
 ## Running the tests
 
-Execute test.py ,automates tesing process and show results
+**test.py** ,automates tesing process and show results
 
 ### And coding style tests
 
